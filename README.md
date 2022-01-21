@@ -1,8 +1,13 @@
 ### Hello 👋
 
+Fullstack developer
+
 🌱 I’m currently learning algorithms
 
 🔭 I’m currently building a task manager optimized for tablets
+
+My blog for sharing tips as I learn:
+[Hashnode](https://hashnode.com/@tinaxgao)
 
 <!--
 **tinaxgao/tinaxgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
