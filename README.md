@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning algorithms
+🌱 I’m currently learning algorithms
+🔭 I’m currently building a task manager optimized for tablets
 
 <!--
 **tinaxgao/tinaxgao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
