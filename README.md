@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🌱 I’m currently learning algorithms
+
 🔭 I’m currently building a task manager optimized for tablets
 
 <!--
