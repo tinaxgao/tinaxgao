@@ -9,3 +9,5 @@ Fullstack Developer | ERN
 ### My blog 
 for sharing tips as I learn:
 [Hashnode](https://hashnode.com/@tinaxgao)
+
+try
