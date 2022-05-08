@@ -1,8 +1,6 @@
 ## Hello 👋
 
-Fullstack Developer | ERN
-
-🌱 I’m currently learning algorithms
+Fullstack Developer
 
 🔭 I’m currently building a task manager optimized for tablets
 
