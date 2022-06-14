@@ -1,7 +1,7 @@
 ### Software Engineer . Product Designer . Architect
 
-- 🚀  I'm currently working on [a restaurant task manager](http://tinagao.com)
-- ⚡  Interested in machine learning.
+🚀  I'm currently working on [a restaurant task manager](http://tinagao.com)
+⚡  Interested in machine learning.
 
     
 ### Socials
