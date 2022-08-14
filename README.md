@@ -6,5 +6,7 @@
 ### Socials
 
 Obligatory LinkedIn :: [LinkedIn](https://www.linkedin.com/in/tinagao)
+
 Ideas for stuff I wish existed :: [Twitter](https://twitter.com/tinagao)
+
 Technical notes :: [Hashnode](https://tinaxgao.hashnode.dev/o)
