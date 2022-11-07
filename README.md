@@ -5,8 +5,4 @@
 
 ### Socials
 
-LinkedIn :: [LinkedIn](https://www.linkedin.com/in/tinaxg)
-
 Twitter :: [Twitter](https://twitter.com/tinaxgao)
-
-Technical notes :: [Hashnode](https://tinaxgao.hashnode.dev/)
